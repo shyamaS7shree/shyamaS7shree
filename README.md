@@ -3,15 +3,10 @@
 <h3 align="center">A passionate Software Engineer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamas7shree&label=Profile%20views&color=0e75b6&style=flat" alt="shyamas7shree" /> </p>
 
-- 🔭 I’m currently working on a Project in Job application using JavaScript Framework **Job Application**
-
-- 🌱 I’m currently learning **Node JS , Machine Learning**
-
 - 💬 Ask me about **JavaScript ,TypeScript, React , Next**
 
 - 📫 How to reach me **shyamashreedas5@gmail.com**
 
-- ⚡ Fun fact **❤️😊I am very Joly person 😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
