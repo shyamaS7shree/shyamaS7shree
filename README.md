@@ -21,8 +21,4 @@
 <h3 align="left">Languages and Tools:</h3>
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamas7shree&show_icons=true&locale=en&layout=compact" alt="shyamas7shree" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamas7shree&show_icons=true&locale=en" alt="shyamas7shree" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamas7shree&" alt="shyamas7shree" /></p>
