@@ -3,10 +3,7 @@
 <h3 align="center">A passionate Software Engineer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamas7shree&label=Profile%20views&color=0e75b6&style=flat" alt="shyamas7shree" /> </p>
 
-- 💬 Ask me about **JavaScript ,TypeScript, React , Next**
-
 - 📫 How to reach me **shyamashreedas5@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
